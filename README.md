@@ -13,14 +13,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor URL](https://www.frontendmentor.io/solutions/frontend-mentor-recipe-page-challenge-rcfxLTsgbb)
+- Live Site URL: [Github Pages URL](https://david-mohlis.github.io/frontend-mentor-recipe-page/)
 
 ## My process
 
